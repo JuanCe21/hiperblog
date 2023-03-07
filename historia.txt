@@ -1,7 +1,5 @@
-hola, este es un ejemplo de git
+Esta es la historia de Freddy Vega
 
-contador de commits 
+Freddy Vega tiene 32 años y nació en Colombia
 
-commit #1
-
-commit #2
+Mañana nos enfocaremos en su vida laboral
