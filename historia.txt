@@ -1,3 +1,7 @@
 hola, este es un ejemplo de git
 
 contador de commits 
+
+commit #1
+
+commit #2
